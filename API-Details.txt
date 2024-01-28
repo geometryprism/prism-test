@@ -1,0 +1,16 @@
+/**
+* API Endpoint Details
+*/
+API Endpoint - https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_RfVepv6jO0dHGZkNJ50Qeu1FKh4vbH9b2Njd2ElJ&currencies=EUR%2CUSD%2CCAD
+
+Method Type - GET
+
+Response Structure - 
+
+{
+    "data": {
+        "CAD": value,
+        "EUR": value,
+        "USD": value
+    }
+}
