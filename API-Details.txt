@@ -1,16 +1,10 @@
 /**
 * API Endpoint Details
 */
-API Endpoint - https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_RfVepv6jO0dHGZkNJ50Qeu1FKh4vbH9b2Njd2ElJ&currencies=EUR%2CUSD%2CCAD
+API Endpoint - https://api.nationalize.io/?name=prism
 
 Method Type - GET
 
 Response Structure - 
 
-{
-    "data": {
-        "CAD": value,
-        "EUR": value,
-        "USD": value
-    }
-}
+{"count":324,"name":"prism","country":[{"country_id":"BD","probability":0.132},{"country_id":"IN","probability":0.088},{"country_id":"PK","probability":0.075},{"country_id":"NP","probability":0.074},{"country_id":"SQ","probability":0.052}]}
